@@ -1,4 +1,4 @@
-Dupla: Arthur Martos e Guilherme dos Santos
+Dupla: Arthur Martos e Guilherme Santos
 
 Sobre o Jogo (Descrição):
 Um simples Sandbox que tem como único objetivo vc testar a física dos objetos, seu personagem pode mudar o seu tamanho para poder interagir melhor com o cenário,
