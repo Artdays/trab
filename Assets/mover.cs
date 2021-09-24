@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class mover : MonoBehaviour
 {
-
+	
 	public float mouseSensitivity = 500f;
 
 	public Transform playerBody;
@@ -26,5 +26,6 @@ public class mover : MonoBehaviour
 
 		transform.localRotation = Quaternion.Euler(xRotation, 0f, 0f);
 		playerBody.Rotate(Vector3.up * mouseX);
+
 	}
 }
