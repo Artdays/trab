@@ -1,8 +1,8 @@
-Dupla: Arthur Martos e Bruno Godoy
+Dupla: Arthur Martos e Guilherme dos Santos
 
 Sobre o Jogo (Descrição):
 Um simples Sandbox que tem como único objetivo vc testar a física dos objetos, seu personagem pode mudar o seu tamanho para poder interagir melhor com o cenário,
-podendo também alterar o tipo de câmera que vc vai utilizar e rotacionar uma peça do ambiente.
+podendo rotacionar uma peça do ambiente, exitem moedas a serem coletadas no cenário.
 
 Botões:
 
